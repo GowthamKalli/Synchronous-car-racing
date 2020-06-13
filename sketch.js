@@ -18,7 +18,7 @@ function draw(){
         changePosition(0,-1);
     }
     else if(keyDown(DOWN_ARROW)){
-        changePosition(0,+1);
+        changePosition(0,+1)
     }
     drawSprites();
 }
